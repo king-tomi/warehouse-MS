@@ -2,7 +2,7 @@
 ## An API that provides modular functionalities that removes high coupling and ensures the backend and frontend stay independent
 
 ## This is a backend development site
-
+## The API can be found at https://warehousemsapi.herokuapp.com/
 ## What informed your choice of technologies for this task?
 ### Django as a backend framewrk makes it easy to develop, test an deploy web services that are highly scalable
 ### and also comes with many functionalities that reduces development time and increase productivity
